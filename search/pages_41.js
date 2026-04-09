@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['🟢_20beginner_20level_0',['🟢 Beginner Level',['../dir_5a28666548bcf2110f01f6c6006e824f.html#autotoc_md1899',1,'']]]
+  ['🛠️_0',['Installation 🛠️',['../dir_0f4d7786c2cecf841f8aec2ba19fb6cb.html#autotoc_md2448',1,'']]]
 ];

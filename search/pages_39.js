@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['🔑_20required_20api_20keys_0',['🔑 Required API Keys',['../d9/d1a/md__2github_2workspace_2ecosystem_2ai-tools_2mcp_2graphq-llm_2TEAM__SETUP.html#autotoc_md1559',1,'']]]
+  ['📦_20fork_20information_0',['📦 Fork Information',['../dir_9793cb16456228ce932b41f4bb85986c.html#autotoc_md1349',1,'']]],
+  ['📦_20setup_20overview_1',['📦 Setup Overview',['../dir_9793cb16456228ce932b41f4bb85986c.html#autotoc_md1333',1,'']]]
 ];

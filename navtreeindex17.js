@@ -1,5 +1,6 @@
 var NAVTREEINDEX17 =
 {
+"dd/da8/namespaceadd__license__headers.html#a3fa65a16b4049a0018fbf3d1f1154a9b":[0,0,0,0],
 "dd/da8/namespaceadd__license__headers.html#a956286a9446d6ee80e1c3a1bf8877494":[0,0,0,2],
 "dd/dae/namespaceresdb_1_1storage.html":[0,0,22,0],
 "dd/dae/namespaceresdb_1_1storage.html#a31e643c1639e6b988514b9c6ecb7bc3f":[0,0,22,0,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX17 =
 "de/d46/classresdb_1_1BlockManager.html":[0,0,22,69],
 "de/d46/classresdb_1_1BlockManager.html":[1,0,6,65],
 "de/d46/classresdb_1_1BlockManager.html#a156959c2e51abe8cad9f13ab8a3670de":[0,0,22,69,3],
-"de/d46/classresdb_1_1BlockManager.html#a156959c2e51abe8cad9f13ab8a3670de":[1,0,6,65,3],
-"de/d46/classresdb_1_1BlockManager.html#a1e31337aabf7668a9fa5f874c74bd917":[0,0,22,69,9]
+"de/d46/classresdb_1_1BlockManager.html#a156959c2e51abe8cad9f13ab8a3670de":[1,0,6,65,3]
 };

@@ -117,10 +117,11 @@ var NAVTREEINDEX10 =
 "d8/dc2/common_2mock__resdb__txn__accessor_8h_source.html":[2,0,7,0,0],
 "d8/dc3/namespaceupdate__mdx__section.html":[0,0,39],
 "d8/dc3/namespaceupdate__mdx__section.html#a2b592aa898cb6a422bc0b4e038f9cebd":[0,0,39,8],
-"d8/dc3/namespaceupdate__mdx__section.html#a5d2123a5591e9f32291116522822ba81":[0,0,39,9],
+"d8/dc3/namespaceupdate__mdx__section.html#a5d2123a5591e9f32291116522822ba81":[0,0,39,10],
 "d8/dc3/namespaceupdate__mdx__section.html#a6b5511c629d1a9aadef1feda5357bf54":[0,0,39,0],
 "d8/dc3/namespaceupdate__mdx__section.html#aa407b2932213b5c3c5e62161144dcc79":[0,0,39,3],
 "d8/dc3/namespaceupdate__mdx__section.html#aac33bb85f4c7e733c743600ccf8efeb6":[0,0,39,1],
+"d8/dc3/namespaceupdate__mdx__section.html#ab09638c490d9612c48ddcaa75e036553":[0,0,39,9],
 "d8/dc3/namespaceupdate__mdx__section.html#ac9b4b4982c387a06629c97d1f24ed422":[0,0,39,5],
 "d8/dc3/namespaceupdate__mdx__section.html#acacbe730501e71a494aeaaec3b01d5f0":[0,0,39,7],
 "d8/dc3/namespaceupdate__mdx__section.html#adf241aa5cc4ffcffa255496fcb228330":[0,0,39,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX10 =
 "d9/d5d/resdb__driver_2utils_8py.html":[2,0,4,3,1,10],
 "d9/d5d/resdb__driver_2utils_8py_source.html":[2,0,4,3,1,10],
 "d9/d62/classresdb__driver_1_1exceptions_1_1MultipleValidatorOperationError.html":[0,0,23,4,29],
-"d9/d62/classresdb__driver_1_1exceptions_1_1MultipleValidatorOperationError.html":[1,0,7,2,29],
-"d9/d68/classresdb__validator_1_1models_1_1Transaction.html":[0,0,26,4,0]
+"d9/d62/classresdb__driver_1_1exceptions_1_1MultipleValidatorOperationError.html":[1,0,7,2,29]
 };

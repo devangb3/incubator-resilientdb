@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['🔴_20advanced_20level_0',['🔴 Advanced Level',['../dir_5a28666548bcf2110f01f6c6006e824f.html#autotoc_md1901',1,'']]]
+  ['🔗_20quick_20reference_20repository_20links_0',['🔗 Quick Reference - Repository Links',['../d9/d1a/md__2github_2workspace_2ecosystem_2ai-tools_2mcp_2graphq-llm_2TEAM__SETUP.html#autotoc_md1553',1,'']]]
 ];
